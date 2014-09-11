@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/calebd/SimpleAuth'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Caleb Davenport' => 'calebmdavenport@gmail.com' }
-  s.source       = { :git => 'https://github.com/adiro/SimpleAuth.git', :tag => "v#{s.version}" }
+  s.source       = { :git => 'https://github.com/adiro/SimpleAuth.git' }
   s.requires_arc = true
   s.platform     = :ios, '6.0'
 
